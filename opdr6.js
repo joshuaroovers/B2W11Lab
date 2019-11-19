@@ -21,9 +21,9 @@ for(x = 0; x < getal + 1; x++)
 }
 document.write("<br>")
 
-for(y = 0; y < getal; y++)
+for(y = 0; y < getal + 1; y++)
 {
-    for(z = 0; z < w; z++)
+    for(z = 0; z < w + 1; z++)
     {
         document.write(array[z])
     }
